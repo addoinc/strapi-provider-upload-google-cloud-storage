@@ -12,12 +12,12 @@ Install the package from your app root directory
 
 with `npm`
 ```
-npm install @strapi-addo/strapi-provider-upload-google-cloud-storage --save
+npm install @addoinc/strapi-provider-upload-google-cloud-storage --save
 ```
 
 or `yarn`
 ```
-yarn add @strapi-addo/strapi-provider-upload-google-cloud-storage
+yarn add @addoinc/strapi-provider-upload-google-cloud-storage
 ```
 
 ## <a name="create-bucket"></a> Create your Bucket on Google Cloud Storage
