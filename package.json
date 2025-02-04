@@ -1,5 +1,5 @@
 {
-  "name": "@strapi-community/strapi-provider-upload-google-cloud-storage",
+  "name": "@strapi-addo/strapi-provider-upload-google-cloud-storage",
   "version": "4.10.6",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload",
   "keywords": [
@@ -10,9 +10,9 @@
     "storage",
     "gcp"
   ],
-  "homepage": "https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage#readme",
+  "homepage": "https://github.com/strapi-addo/strapi-provider-upload-google-cloud-storage#readme",
   "bugs": {
-    "url": "https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage/issues"
+    "url": "https://github.com/strapi-addo/strapi-provider-upload-google-cloud-storage/issues"
   },
   "license": "MIT",
   "author": {
